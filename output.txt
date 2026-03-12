@@ -1,0 +1,24 @@
+College Code: ANITS01
+College Name: ANITS
+Location: Visakhapatnam
+
+Student ID: 1
+Name: Rahul
+Average Marks: 85.0
+CGPA: 8.5
+Age: 20
+Fee Balance: 20000
+
+Student ID: 2
+Name: Priya
+Average Marks: 88.0
+CGPA: 8.8
+Age: 21
+Fee Balance: 10000
+
+Student ID: 3
+Name: Arjun
+Average Marks: 72.33
+CGPA: 7.23
+Age: 20
+Fee Balance: 25000
